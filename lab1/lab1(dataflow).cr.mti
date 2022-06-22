@@ -1,0 +1,57 @@
+C:/intelFPGA/18.0/lab1/tb_mux.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/tb_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_mux
+
+Top level modules:
+	tb_mux
+
+} {} {}} C:/intelFPGA/18.0/lab1/DEC2_to_4.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/DEC2_to_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DEC2_to_4
+
+Top level modules:
+	DEC2_to_4
+
+} {} {}} C:/intelFPGA/18.0/lab1/tb_full_adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/tb_full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_full_adder
+
+Top level modules:
+	tb_full_adder
+
+} {} {}} C:/intelFPGA/18.0/lab1/comparator4.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/comparator4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comparator4
+
+Top level modules:
+	comparator4
+
+} {} {}} C:/intelFPGA/18.0/lab1/fulladd4.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/fulladd4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fulladd4
+
+Top level modules:
+	fulladd4
+
+} {} {}} C:/intelFPGA/18.0/lab1/tb_comparator4.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/tb_comparator4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_comparator4
+
+Top level modules:
+	tb_comparator4
+
+} {} {}} C:/intelFPGA/18.0/MUX4_to_1.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/MUX4_to_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MUX4_to_1
+
+Top level modules:
+	MUX4_to_1
+
+} {} {}} C:/intelFPGA/18.0/lab1/tb_dec.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/lab1/tb_dec.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_dec
+
+Top level modules:
+	tb_dec
+
+} {} {}}

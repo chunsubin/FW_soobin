@@ -1,0 +1,180 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/18.0
+vFull_Adder
+Z1 !s110 1655858584
+!i10b 1
+!s100 2h2@n@<]OV;Sbl^dB58EA1
+I>cWeJb9b5A9b2ZVDScOl>3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1655795394
+8C:/intelFPGA/18.0/Full_Adder.v
+FC:/intelFPGA/18.0/Full_Adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655858584.000000
+!s107 C:/intelFPGA/18.0/Full_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/Full_Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@full_@adder
+vfulladder4b
+Z7 !s110 1655858585
+!i10b 1
+!s100 1O8Ea:KnHcY8enDOONCHK2
+IO4?3mkUf_Pm21`l^Q5?KV2
+R2
+R0
+w1655858579
+8C:/intelFPGA/18.0/fulladder4b.v
+FC:/intelFPGA/18.0/fulladder4b.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1655858585.000000
+!s107 C:/intelFPGA/18.0/fulladder4b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/fulladder4b.v|
+!i113 1
+R5
+R6
+vHalf_Adder
+R1
+!i10b 1
+!s100 Ta<cQ5Jf[`>A5f7RMa2`R1
+I8zmEaFbKhBRk<klnhki:K3
+R2
+R0
+w1655792685
+8C:/intelFPGA/18.0/Half_Adder.v
+FC:/intelFPGA/18.0/Half_Adder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/Half_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/Half_Adder.v|
+!i113 1
+R5
+R6
+n@half_@adder
+vmux4_to_1
+R1
+!i10b 1
+!s100 FJ2c1Vz=gAECFzTl>PLbl2
+IZ=<VGb:;R`m[9O8WF9<EI1
+R2
+R0
+w1655789885
+8C:/intelFPGA/18.0/MUX4_to_1.v
+FC:/intelFPGA/18.0/MUX4_to_1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/MUX4_to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/MUX4_to_1.v|
+!i113 1
+R5
+R6
+vtb_full_adder
+R7
+!i10b 1
+!s100 72ZhTK3INm_HGQKMV;N1@1
+I6@gAdn=T8MV5l`]=YJUd:0
+R2
+R0
+w1655796364
+8C:/intelFPGA/18.0/tb_full_adder.v
+FC:/intelFPGA/18.0/tb_full_adder.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/tb_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/tb_full_adder.v|
+!i113 1
+R5
+R6
+vtb_half_adder
+R7
+!i10b 1
+!s100 00Z>nnggDZQG`7B9L=lOW1
+IEY^QHcDD@9ZV9m1aWe]d]3
+R2
+R0
+w1655796239
+8C:/intelFPGA/18.0/tb_half_adder.v
+FC:/intelFPGA/18.0/tb_half_adder.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/tb_half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/tb_half_adder.v|
+!i113 1
+R5
+R6
+vtb_mux
+R1
+!i10b 1
+!s100 >hB]gRIkCHLmG_U4jKea13
+IME_GnF?o97`>MVGY@SCHW3
+R2
+R0
+w1655789784
+8C:/intelFPGA/18.0/stimulus.v
+FC:/intelFPGA/18.0/stimulus.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/stimulus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/stimulus.v|
+!i113 1
+R5
+R6
+vtb_ripple_carry_adder
+R7
+!i10b 1
+!s100 clLbO4:FjPY3BKaF:zMG=1
+I2GQ?RPl]3dfUInOW<3Ve63
+R2
+R0
+w1655797650
+8C:/intelFPGA/18.0/tb_ripple_carry_adder.v
+FC:/intelFPGA/18.0/tb_ripple_carry_adder.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/tb_ripple_carry_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/tb_ripple_carry_adder.v|
+!i113 1
+R5
+R6

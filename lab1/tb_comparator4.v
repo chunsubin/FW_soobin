@@ -1,0 +1,26 @@
+`timescale 10ns/1ps
+module tb_comparator4;
+
+wire GT, EQ, LT;
+reg  [3:0] A;
+reg  [3:0] B;
+reg  Enable;
+
+// Form :module comparator4 (GT,EQ, LT, [3:0] A, [3:0] B, Enable)
+comparator4 my_comparator (GT, EQ, LT, A, B, Enable);
+
+ initial begin
+ 	    A = 4'b0000; B=4'b0000; Enable = 1'b0;
+	#1  A = 4'b0000; B=4'b0001; Enable = 1'b0;
+	#1  A = 4'b0001; B=4'b0001; Enable = 1'b1;
+	#1  A = 4'b0110; B=4'b0011; Enable = 1'b1;
+	#1  A = 4'b1000; B=4'b0000; Enable = 1'b1;
+	#1  A = 4'b0000; B=4'b0000; Enable = 1'b0;
+	#1  A = 4'b0011; B=4'b0001; Enable = 1'b1;
+	#1  A = 4'b1000; B=4'b1000; Enable = 1'b1;
+	#1  A = 4'b0101; B=4'b1100; Enable = 1'b1;
+	#5;
+end
+
+endmodule
+

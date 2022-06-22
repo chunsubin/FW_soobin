@@ -1,0 +1,180 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0
+vcomparator4
+Z0 !s110 1655877702
+!i10b 1
+!s100 0]lEE0Ph2Pg74::<TS[ab0
+IZ7mDUiS?j;HhKA8Qg?:1@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.0/lab1
+w1655877597
+8C:/intelFPGA/18.0/lab1/comparator4.v
+FC:/intelFPGA/18.0/lab1/comparator4.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655877702.000000
+!s107 C:/intelFPGA/18.0/lab1/comparator4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/comparator4.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vDEC2_to_4
+Z7 !s110 1655877701
+!i10b 1
+!s100 UcD2VB0SZ9l040RJ1`3m81
+IRTz=F_E3@>[?BoVVmL;c31
+R1
+R2
+w1655875866
+8C:/intelFPGA/18.0/lab1/DEC2_to_4.v
+FC:/intelFPGA/18.0/lab1/DEC2_to_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1655877701.000000
+!s107 C:/intelFPGA/18.0/lab1/DEC2_to_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/DEC2_to_4.v|
+!i113 1
+R5
+R6
+n@d@e@c2_to_4
+vfulladd4
+R7
+!i10b 1
+!s100 3`C6hb?fS:42=;Jh_=PBW2
+Ike=2SfjZ^_`AZBh0?]iUc1
+R1
+R2
+w1655874964
+8C:/intelFPGA/18.0/lab1/fulladd4.v
+FC:/intelFPGA/18.0/lab1/fulladd4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/lab1/fulladd4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/fulladd4.v|
+!i113 1
+R5
+R6
+vMUX4_to_1
+R7
+!i10b 1
+!s100 _jUMF[]QAYc5DJMolRh_O0
+I5G_790>TENmg20I?dOD130
+R1
+R2
+w1655876998
+8C:/intelFPGA/18.0/MUX4_to_1.v
+FC:/intelFPGA/18.0/MUX4_to_1.v
+L0 18
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/MUX4_to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/MUX4_to_1.v|
+!i113 1
+R5
+R6
+n@m@u@x4_to_1
+vtb_comparator4
+R0
+!i10b 1
+!s100 R6bO>J=7cUSDaV`K7_f[>3
+IeB[gJcS^9?QAbCIFX0lo>1
+R1
+R2
+w1655877697
+8C:/intelFPGA/18.0/lab1/tb_comparator4.v
+FC:/intelFPGA/18.0/lab1/tb_comparator4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab1/tb_comparator4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_comparator4.v|
+!i113 1
+R5
+R6
+vtb_dec
+R0
+!i10b 1
+!s100 `OcPND>06CD_DNPNZ45W=3
+INolAEclC2;>a9Z87W1nMb0
+R1
+R2
+w1655875702
+8C:/intelFPGA/18.0/lab1/tb_dec.v
+FC:/intelFPGA/18.0/lab1/tb_dec.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/lab1/tb_dec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_dec.v|
+!i113 1
+R5
+R6
+vtb_full_adder
+R7
+!i10b 1
+!s100 ^?=iAa2haOI>bI@@WPfAW1
+IgIYOfjofj[`:@Wnm<kg050
+R1
+R2
+w1655874879
+8C:/intelFPGA/18.0/lab1/tb_full_adder.v
+FC:/intelFPGA/18.0/lab1/tb_full_adder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/lab1/tb_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_full_adder.v|
+!i113 1
+R5
+R6
+vtb_mux
+R7
+!i10b 1
+!s100 h88UaBi<fZz5UIV=HMK_H3
+I^LWg?o]9<ZNg:bIhFe3lb1
+R1
+R2
+w1655877002
+8C:/intelFPGA/18.0/lab1/tb_mux.v
+FC:/intelFPGA/18.0/lab1/tb_mux.v
+L0 4
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/intelFPGA/18.0/lab1/tb_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_mux.v|
+!i113 1
+R5
+R6
