@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.0
 vcomparator4
-Z0 !s110 1655877702
+Z0 !s110 1655879098
 !i10b 1
 !s100 0]lEE0Ph2Pg74::<TS[ab0
 IZ7mDUiS?j;HhKA8Qg?:1@2
@@ -23,20 +23,20 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1655877702.000000
+Z4 !s108 1655879098.000000
 !s107 C:/intelFPGA/18.0/lab1/comparator4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/comparator4.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
 vDEC2_to_4
-Z7 !s110 1655877701
+R0
 !i10b 1
-!s100 UcD2VB0SZ9l040RJ1`3m81
-IRTz=F_E3@>[?BoVVmL;c31
+!s100 =SDWN5KzX2;[=oBPeYBKA1
+I3CEP>MCLOkCD6nk1AO5`b0
 R1
 R2
-w1655875866
+w1655878034
 8C:/intelFPGA/18.0/lab1/DEC2_to_4.v
 FC:/intelFPGA/18.0/lab1/DEC2_to_4.v
 L0 1
@@ -44,7 +44,7 @@ R3
 r1
 !s85 0
 31
-Z8 !s108 1655877701.000000
+R4
 !s107 C:/intelFPGA/18.0/lab1/DEC2_to_4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/DEC2_to_4.v|
 !i113 1
@@ -52,13 +52,13 @@ R5
 R6
 n@d@e@c2_to_4
 vfulladd4
-R7
+R0
 !i10b 1
 !s100 3`C6hb?fS:42=;Jh_=PBW2
 Ike=2SfjZ^_`AZBh0?]iUc1
 R1
 R2
-w1655874964
+w1655879039
 8C:/intelFPGA/18.0/lab1/fulladd4.v
 FC:/intelFPGA/18.0/lab1/fulladd4.v
 L0 2
@@ -66,34 +66,56 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 C:/intelFPGA/18.0/lab1/fulladd4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/fulladd4.v|
 !i113 1
 R5
 R6
 vMUX4_to_1
-R7
+R0
 !i10b 1
-!s100 _jUMF[]QAYc5DJMolRh_O0
-I5G_790>TENmg20I?dOD130
+!s100 e@XKoVm^OeeXXj<WW0WN_0
+I=XjL0mE>QJCm^LDQ08ZKb3
 R1
 R2
-w1655876998
-8C:/intelFPGA/18.0/MUX4_to_1.v
-FC:/intelFPGA/18.0/MUX4_to_1.v
-L0 18
+Z7 w1655878990
+Z8 8C:/intelFPGA/18.0/lab1/MUX4_to_1.v
+Z9 FC:/intelFPGA/18.0/lab1/MUX4_to_1.v
+L0 1
 R3
 r1
 !s85 0
 31
-R8
-!s107 C:/intelFPGA/18.0/MUX4_to_1.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/MUX4_to_1.v|
+R4
+Z10 !s107 C:/intelFPGA/18.0/lab1/MUX4_to_1.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/MUX4_to_1.v|
 !i113 1
 R5
 R6
 n@m@u@x4_to_1
+vMUX4_to_1_two
+R0
+!i10b 1
+!s100 eThUbQNeHKhX`QCoPNMdU1
+I@KQzdDWiVn`WZZiabBK[n3
+R1
+R2
+R7
+R8
+R9
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+n@m@u@x4_to_1_two
 vtb_comparator4
 R0
 !i10b 1
@@ -130,14 +152,14 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 C:/intelFPGA/18.0/lab1/tb_dec.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_dec.v|
 !i113 1
 R5
 R6
 vtb_full_adder
-R7
+R0
 !i10b 1
 !s100 ^?=iAa2haOI>bI@@WPfAW1
 IgIYOfjofj[`:@Wnm<kg050
@@ -151,14 +173,14 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 C:/intelFPGA/18.0/lab1/tb_full_adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_full_adder.v|
 !i113 1
 R5
 R6
 vtb_mux
-R7
+R0
 !i10b 1
 !s100 h88UaBi<fZz5UIV=HMK_H3
 I^LWg?o]9<ZNg:bIhFe3lb1
@@ -172,9 +194,30 @@ R3
 r1
 !s85 0
 31
-R8
+R4
 !s107 C:/intelFPGA/18.0/lab1/tb_mux.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_mux.v|
+!i113 1
+R5
+R6
+vtb_mux2
+!s110 1655879099
+!i10b 1
+!s100 V9LmIEC9T?<Fe`N@YKegY3
+IGLMm5HO`>;ANo`GOI;G<e1
+R1
+R2
+w1655879093
+8C:/intelFPGA/18.0/lab1/tb_mux2.v
+FC:/intelFPGA/18.0/lab1/tb_mux2.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab1/tb_mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab1/tb_mux2.v|
 !i113 1
 R5
 R6
