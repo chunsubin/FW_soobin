@@ -1,5 +1,5 @@
 module Counter4 (
-	output wire [3:0] Q,
+	output reg [3:0] Q,
 	input wire clk,
 	input wire clr
 );
