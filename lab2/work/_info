@@ -1,0 +1,140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0/lab0
+vALU_8func
+Z0 !s110 1655967182
+!i10b 1
+!s100 UCF7Kd8X0_UAHbm5i10EL2
+IcEMzj1E5o0KZ;mDhe4UQ^3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.0/lab2
+w1655965820
+8C:/intelFPGA/18.0/lab2/ALU_8func.v
+FC:/intelFPGA/18.0/lab2/ALU_8func.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655967182.000000
+!s107 C:/intelFPGA/18.0/lab2/ALU_8func.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/ALU_8func.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u_8func
+vCounter4
+R0
+!i10b 1
+!s100 a;U3QWY@`lIQ95USV4_a]3
+IZ6Y6j4^cgEGH>3bzLHd?S2
+R1
+R2
+w1655967137
+8C:/intelFPGA/18.0/lab2/Counter4.v
+FC:/intelFPGA/18.0/lab2/Counter4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab2/Counter4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/Counter4.v|
+!i113 1
+R5
+R6
+n@counter4
+vMUX4_to_1
+R0
+!i10b 1
+!s100 aLLYZ2Hd7=GzFBNF7T8^d1
+I_F4nGENTGG9oGX?<;Y[b^2
+R1
+R2
+w1655962667
+8C:/intelFPGA/18.0/lab2/MUX4_to_1.v
+FC:/intelFPGA/18.0/lab2/MUX4_to_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab2/MUX4_to_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/MUX4_to_1.v|
+!i113 1
+R5
+R6
+n@m@u@x4_to_1
+vtb_ALU_8func
+R0
+!i10b 1
+!s100 42Zkcf8>^TLHSZM8B>S8W3
+ImQ5EzGJPn`z_5E>AH`CD^0
+R1
+R2
+w1655966673
+8C:/intelFPGA/18.0/lab2/tb_ALU_8func.v
+FC:/intelFPGA/18.0/lab2/tb_ALU_8func.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab2/tb_ALU_8func.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/tb_ALU_8func.v|
+!i113 1
+R5
+R6
+ntb_@a@l@u_8func
+vtb_counter
+R0
+!i10b 1
+!s100 FzNM;fl[hh@A6B]ZZZhE81
+I?z152[GQ1;BjPZz4g3=^l2
+R1
+R2
+w1655967179
+8C:/intelFPGA/18.0/lab2/tb_counter.v
+FC:/intelFPGA/18.0/lab2/tb_counter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab2/tb_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/tb_counter.v|
+!i113 1
+R5
+R6
+vtb_mux
+R0
+!i10b 1
+!s100 PFG?e_m<cRC<TN49meG2T3
+I@k@52emdd]fec6iKze^Oj2
+R1
+R2
+w1655963063
+8C:/intelFPGA/18.0/lab2/tb_mux.v
+FC:/intelFPGA/18.0/lab2/tb_mux.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA/18.0/lab2/tb_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/18.0/lab2/tb_mux.v|
+!i113 1
+R5
+R6
