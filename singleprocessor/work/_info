@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0/behavioral
+vADDER
+Z0 !s110 1656598063
+!i10b 1
+!s100 @MjklzRE7:<^Me<<PkZfR3
+ISkhGQb6DjO<OMTbM2;b590
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/18.0/singleprocessor
+w1656565309
+8C:\intelFPGA\18.0\singleprocessor\ADDER.v
+FC:\intelFPGA\18.0\singleprocessor\ADDER.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1656598062.000000
+!s107 C:\intelFPGA\18.0\singleprocessor\ADDER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\ADDER.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@d@d@e@r
+vCP_GEN
+R0
+!i10b 1
+!s100 BCTnc2V?<NT>A9:W=;8_c0
+IB]gFB3gZ7Gk68SEPDmkG61
+R1
+R2
+w1656597580
+8C:\intelFPGA\18.0\singleprocessor\CP_GEN.v
+FC:\intelFPGA\18.0\singleprocessor\CP_GEN.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z7 !s108 1656598063.000000
+!s107 C:\intelFPGA\18.0\singleprocessor\CP_GEN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\CP_GEN.v|
+!i113 1
+R5
+R6
+n@c@p_@g@e@n
+vIMMEXTENSION
+R0
+!i10b 1
+!s100 hFl=CDMim9lHCUX3ZH07j1
+IPOGJU5>K`EVSVnT0S9b]Q2
+R1
+R2
+w1656569683
+8C:\intelFPGA\18.0\singleprocessor\IMMEXTENSION.v
+FC:\intelFPGA\18.0\singleprocessor\IMMEXTENSION.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\intelFPGA\18.0\singleprocessor\IMMEXTENSION.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\IMMEXTENSION.v|
+!i113 1
+R5
+R6
+n@i@m@m@e@x@t@e@n@s@i@o@n
+vMUX2to1
+Z8 !s110 1656598062
+!i10b 1
+!s100 ;Pc<iUK@j;642LZ^VNoWZ0
+IImNaDeRjYSkDZk0<Mi0E02
+R1
+R2
+w1656562426
+8C:\intelFPGA\18.0\singleprocessor\MUX2to1.v
+FC:\intelFPGA\18.0\singleprocessor\MUX2to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\intelFPGA\18.0\singleprocessor\MUX2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\MUX2to1.v|
+!i113 1
+R5
+R6
+n@m@u@x2to1
+vMUX4TO1
+!s110 1656564677
+!i10b 1
+!s100 dXX9R5jJ8JQPJL87RB@NA3
+I;Kn=Fce<aY5T<Jz>8;Tl33
+R1
+R2
+w1656564674
+Z9 8C:\intelFPGA\18.0\singleprocessor\MUX4to1.v
+Z10 FC:\intelFPGA\18.0\singleprocessor\MUX4to1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1656564677.000000
+Z11 !s107 C:\intelFPGA\18.0\singleprocessor\MUX4to1.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\MUX4to1.v|
+!i113 1
+R5
+R6
+n@m@u@x4@t@o1
+vMUX4to1
+R8
+!i10b 1
+!s100 MB2hK2cTSHHbhlQX`@A4e2
+I:oE^KBCYDc1<453C2biQX0
+R1
+R2
+w1656569849
+R9
+R10
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R11
+R12
+!i113 1
+R5
+R6
+n@m@u@x4to1
+vTB_ADDER
+R0
+!i10b 1
+!s100 8YP9g<?JgCUbbMzGXL[N00
+I^P^A@HHeO@IJIM?0gSn^k1
+R1
+R2
+w1656563465
+8C:\intelFPGA\18.0\singleprocessor\TB_ADDER.v
+FC:\intelFPGA\18.0\singleprocessor\TB_ADDER.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\intelFPGA\18.0\singleprocessor\TB_ADDER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\TB_ADDER.v|
+!i113 1
+R5
+R6
+n@t@b_@a@d@d@e@r
+vTB_CP_GEN
+R0
+!i10b 1
+!s100 [AQZUZj`;nUDmh<5mk5AZ1
+I2BzVOY^0]56f0bl`BY?DQ0
+R1
+R2
+w1656598060
+8C:\intelFPGA\18.0\singleprocessor\TB_CP_GEN.v
+FC:\intelFPGA\18.0\singleprocessor\TB_CP_GEN.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\intelFPGA\18.0\singleprocessor\TB_CP_GEN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\TB_CP_GEN.v|
+!i113 1
+R5
+R6
+n@t@b_@c@p_@g@e@n
+vTB_IMMEXTENSION
+R0
+!i10b 1
+!s100 kR02>kiBEIX0]]3NM2YXg1
+I7^_4G7hI9RV:1n]UJYmU]3
+R1
+R2
+w1656575186
+8C:\intelFPGA\18.0\singleprocessor\TB_IMMEXTENSION.v
+FC:\intelFPGA\18.0\singleprocessor\TB_IMMEXTENSION.v
+L0 2
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\intelFPGA\18.0\singleprocessor\TB_IMMEXTENSION.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\TB_IMMEXTENSION.v|
+!i113 1
+R5
+R6
+n@t@b_@i@m@m@e@x@t@e@n@s@i@o@n
+vTB_MUX
+R8
+!i10b 1
+!s100 G<zgTlfX<SBC5fF[nBfTi0
+IbbC9d5]bZO7ZO3PBZUmz21
+R1
+R2
+w1656564809
+8C:\intelFPGA\18.0\singleprocessor\TB_MUX.v
+FC:\intelFPGA\18.0\singleprocessor\TB_MUX.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\intelFPGA\18.0\singleprocessor\TB_MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\18.0\singleprocessor\TB_MUX.v|
+!i113 1
+R5
+R6
+n@t@b_@m@u@x
