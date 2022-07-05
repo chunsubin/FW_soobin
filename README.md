@@ -9,5 +9,5 @@
 ### lab5 : 6차 실습 - 프로세스 설계 : 과제1(테이블채우기)
 #### lab5로 hdl 설계 - 조합회로 (MUX, ADDER, CP_GEN, IMMEXTENSION)
 ### lab6 : 7차 실습 - 프로세스 설계 : 순차회로 (REG, REGFILE, ALU, NZCVREG, NZCVCHECK)
-### lab7 : ARMv6M 프로세스 설계 : lab5~6 + 
+### lab7 : ARMv6M 프로세스 설계 : lab5~6 + CORE + CLK_GEN 
 
