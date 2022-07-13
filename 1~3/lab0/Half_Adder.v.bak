@@ -1,0 +1,10 @@
+
+module Half_Adder (
+	output wire SUM, CARRY,
+	input wire X,Y
+);
+
+	xor (CARRY, X, Y);
+	and (SUM, X, Y);
+
+endmodule

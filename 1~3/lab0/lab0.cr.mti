@@ -1,0 +1,50 @@
+C:/intelFPGA/18.0/fulladder4b.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/fulladder4b.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fulladder4b
+
+Top level modules:
+	fulladder4b
+
+} {} {}} C:/intelFPGA/18.0/stimulus.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/stimulus.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_mux
+
+Top level modules:
+	tb_mux
+
+} {} {}} C:/intelFPGA/18.0/Half_Adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/Half_Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Half_Adder
+
+Top level modules:
+	Half_Adder
+
+} {} {}} C:/intelFPGA/18.0/Full_Adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/Full_Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Full_Adder
+
+Top level modules:
+	Full_Adder
+
+} {} {}} C:/intelFPGA/18.0/tb_half_adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/tb_half_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_half_adder
+
+Top level modules:
+	tb_half_adder
+
+} {} {}} C:/intelFPGA/18.0/tb_full_adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/tb_full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_full_adder
+
+Top level modules:
+	tb_full_adder
+
+} {} {}} C:/intelFPGA/18.0/tb_ripple_carry_adder.v {1 {vlog -work work -stats=none C:/intelFPGA/18.0/tb_ripple_carry_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_ripple_carry_adder
+
+Top level modules:
+	tb_ripple_carry_adder
+
+} {} {}}
