@@ -11,3 +11,5 @@
 ### lab6 : 7차 실습 - 프로세스 설계 : 순차회로 (REG, REGFILE, ALU, NZCVREG, NZCVCHECK)
 ### lab7 : ARMv6M 프로세스 설계 : lab5~6 + CORE + CLK_GEN 
 
+
+### 0711 ~ 0713 : 라즈베리파이 환경 세팅, 블루투스 자동 연결 설정, 블루투스 관련 실습, 온습도 모니터링 시스템ㅣ
